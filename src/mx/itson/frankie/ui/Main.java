@@ -41,6 +41,8 @@ public class Main {
         
         // Agregar pasos
         
+        // Espero que los hayan puesto
+        
         receta.setDificultad(Dificultad.INTERMEDIO);
         
     }
